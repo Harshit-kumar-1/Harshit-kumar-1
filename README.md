@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit-kumar-1&label=Profile%20views&color=0e75b6&style=flat" alt="harshit-kumar-1" /> </p>
 
-- 🔭 I’m currently working on **My Own Portfolio Website**
+- 🔭 I’m currently working on **To Be Better Programmer**
 
-- 🌱 I’m currently learning **Data Structure and Algorithms**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on **a Website Project**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **HarshitKumar1026@gmail.com**
 
-- ⚡ Fun fact **I have a broken humor**
+- ⚡ Fun fact **Nothing Ever Goes as Planed in This World.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
