@@ -5,13 +5,7 @@
 
 - 🔭 I’m currently working on **To Be Better Programmer**
 
-- 🌱 I’m currently learning **JavaScript**
-
-- 👯 I’m looking to collaborate on **a Website Project**
-
-- 🤝 I’m looking for help with **JavaScript**
-
-- 💬 Ask me about **c , c++ and Java**
+- 💬 Ask me about **Html, CSS, JavaScript and Java**
 
 - 📫 How to reach me **HarshitKumar1026@gmail.com**
 
