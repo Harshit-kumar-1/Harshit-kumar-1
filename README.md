@@ -10,4 +10,6 @@ I learn by building, not rushing.
 
 Outside code: anime and self-improvement.
 
-📧 HarshitKumar1026@gmail.com | 🔗 dinq.me/harshitkumar
+📧 HarshitKumar1026@gmail.com  
+🔗 [LinkedIn/harshit-kumar-me](https://www.linkedin.com/in/harshit-kumar-me)  
+💻 [dinq.me/harshitkumar](https://dinq.me/harshitkumar)  
