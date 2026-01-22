@@ -1,4 +1,5 @@
-Hey 👋 I’m Harshit Kumar, a frontend developer from India.
+Hey 👋 
+I’m Harshit Kumar, a frontend developer from India.
 
 I build interfaces, break them, and rebuild them until they feel right.
 
